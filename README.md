@@ -1,4 +1,4 @@
-# 💫 HI I'M AHMEEED
+#  HI I'M AHMEEED
 🔭 I’m currently working on update my coding skills<br>👯 I’m looking to collaborate on programming knowlidge<br>🤝 I’m looking for help with anything has connection with programming<br>🌱 I’m currently learning front-end & back-end<br>💬 Ask me about anything <br>⚡ Fun fact i started coding two years ago but i just start  deeping in it
 
 
